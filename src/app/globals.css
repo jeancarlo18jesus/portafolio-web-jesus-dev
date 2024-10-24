@@ -1,0 +1,57 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+/* ===== Scrollbar CSS ===== */
+  /* Firefox */
+/* Scrollbar para tema claro (default) */
+/* Scrollbar para tema claro (default) */
+/* Scrollbar para tema claro */
+html * {
+    scrollbar-width: auto;
+    scrollbar-color: #030712 #ffffff; /* thumb #030712, track #ffffff */
+  }
+  
+  /* Scrollbar en Chrome, Edge, Safari (Light) */
+  *::-webkit-scrollbar {
+    width: 16px;
+  }
+  
+  *::-webkit-scrollbar-track {
+    background: #ffffff; /* Track blanco */
+  }
+  
+  *::-webkit-scrollbar-thumb {
+    background-color: #030712; /* Thumb color oscuro */
+    border-radius: 10px;
+    border: 3px solid #ffffff; /* Borde blanco */
+  }
+  
+  /* Scrollbar para tema oscuro */
+  html.dark * {
+    scrollbar-width: auto;
+    scrollbar-color: #0931a0 #1e293b; /* thumb azul (#0931a0), track oscuro (#1e293b) */
+  }
+  
+  /* Scrollbar en Chrome, Edge, Safari (Dark) */
+  html.dark *::-webkit-scrollbar {
+    width: 16px;
+  }
+  
+  html.dark *::-webkit-scrollbar-track {
+    background: #1e293b !important; /* Track oscuro */
+  }
+  
+  html.dark *::-webkit-scrollbar-thumb {
+    background-color: #0931a0 !important; /* Thumb azul */
+    border-radius: 10px;
+    border: 3px solid #ffffff !important; /* Borde blanco */
+  }
+  
+  
+
+ 
+
+
+/* ===== Header CSS ===== */

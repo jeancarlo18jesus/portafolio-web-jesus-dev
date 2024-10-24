@@ -1,0 +1,68 @@
+[
+    {
+      "id": "1f8a7cfae1",
+      "title": "Cómo la tecnología ha revolucionado la carpintería",
+      "date": "2024-10-23",
+      "description": "Exploramos cómo las herramientas tecnológicas modernas han cambiado el oficio tradicional de la carpintería.",
+      "content": "La carpintería ha existido durante siglos, pero la llegada de nuevas herramientas tecnológicas ha permitido a los carpinteros llevar su arte al siguiente nivel. Desde el diseño digital hasta el uso de máquinas de corte controladas por computadora, el proceso se ha vuelto más preciso y eficiente.",
+      "image": "/imgs/image_carpinteria_tecnologia.jpg"
+    },
+    {
+      "id": "5b9e2f3d54",
+      "title": "Diseño y creatividad en la música digital",
+      "date": "2024-10-21",
+      "description": "Un vistazo a cómo las plataformas digitales han permitido a los músicos expresarse de maneras nuevas e innovadoras.",
+      "content": "Con herramientas de software de diseño de sonido y estaciones de trabajo digitales, los músicos tienen a su disposición un sinfín de posibilidades para crear música. Estos avances han democratizado el acceso a la producción musical, permitiendo a los artistas independientes compartir su trabajo a una escala global.",
+      "image": "/imgs/image_musica_digital.jpg"
+    },
+    {
+      "id": "a27f5b13c7",
+      "title": "El impacto de los animales en la salud mental",
+      "date": "2024-10-20",
+      "description": "Descubre cómo interactuar con los animales puede mejorar tu bienestar emocional y reducir el estrés.",
+      "content": "Estudios han demostrado que pasar tiempo con animales puede reducir los niveles de cortisol, la hormona del estrés, y aumentar la producción de serotonina, mejorando el estado de ánimo. Los animales también promueven la empatía y ofrecen una fuente constante de compañía y apoyo emocional.",
+      "image": "/imgs/image_salud_animales.jpg"
+    },
+    {
+      "id": "d41e2f6a9b",
+      "title": "La evolución del diseño gráfico en la era digital",
+      "date": "2024-10-18",
+      "description": "Un análisis de cómo el diseño gráfico ha evolucionado con el surgimiento de nuevas tecnologías y herramientas digitales.",
+      "content": "Con el auge del software de diseño digital, la creatividad en el diseño gráfico ha alcanzado nuevas alturas. Herramientas como Adobe Creative Suite han transformado el proceso de diseño, permitiendo a los diseñadores explorar con mayor libertad y precisión.",
+      "image": "/imgs/image_diseño_grafico.jpg"
+    },
+    {
+      "id": "8f3c2e19d2",
+      "title": "Cómo la tecnología influye en el arte del dibujo",
+      "date": "2024-10-15",
+      "description": "Exploramos el papel de las tabletas gráficas y el software de dibujo en la evolución del arte visual.",
+      "content": "El dibujo digital ha abierto nuevas fronteras para los artistas, permitiéndoles trabajar sin las limitaciones de los materiales físicos. Con tabletas gráficas como Wacom y software como Procreate, los artistas ahora pueden crear obras de arte complejas con facilidad.",
+      "image": "/imgs/image_arte_dibujo.jpg"
+    },
+    {
+      "id": "9b3e1f4c6d",
+      "title": "La relación entre el diseño y la funcionalidad en la tecnología",
+      "date": "2024-10-13",
+      "description": "Analizamos cómo el diseño bien pensado puede mejorar la experiencia del usuario en dispositivos tecnológicos.",
+      "content": "El diseño de productos tecnológicos no se trata solo de estética. La funcionalidad es un componente clave. Los diseñadores deben considerar tanto la forma como la función para crear dispositivos que no solo sean atractivos, sino también útiles y ergonómicos.",
+      "image": "/imgs/image_tecnologia_funcionalidad.jpg"
+    },
+    {
+      "id": "c7d2f5b16a",
+      "title": "Tecnología y sustentabilidad en la carpintería moderna",
+      "date": "2024-10-10",
+      "description": "La importancia de adoptar prácticas sustentables en la carpintería utilizando la tecnología adecuada.",
+      "content": "La carpintería moderna se está adaptando a prácticas más ecológicas con la ayuda de tecnologías que optimizan el uso de materiales y reducen el desperdicio. Herramientas como el diseño asistido por computadora permiten un corte más preciso y eficiente, minimizando los desechos.",
+      "image": "/imgs/image_carpinteria_moderna.jpg"
+    },
+    {
+      "id": "b4e3a16f7d",
+      "title": "Cómo la inteligencia artificial está cambiando el diseño gráfico",
+      "date": "2024-10-08",
+      "description": "Un vistazo a cómo la IA está ayudando a los diseñadores gráficos a ser más creativos y productivos.",
+      "content": "La inteligencia artificial ha comenzado a jugar un papel en el diseño gráfico, desde la creación automática de patrones hasta la sugerencia de paletas de colores. Aunque algunos temen que la IA pueda reemplazar a los diseñadores, en realidad está complementando sus habilidades, permitiendo una mayor eficiencia y creatividad.",
+      "image": "/imgs/image_inteligencia_artificial.jpg"
+    }
+   
+  ]
+  
