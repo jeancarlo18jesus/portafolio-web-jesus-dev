@@ -41,7 +41,7 @@ export const HeaderBodyDesktop = () => {
             <p className='dark:text-gray-600 font-semibold text-[12px] md:text-[16px] text-gray-800  '>
             Estudiante de Administración de Sistemas en Certus. Destacado por mi sólido dominio en bases de datos y otras tecnologías esenciales. 
             Comprometido con el constante aprendizaje y en proceso de mejora de mis habilidades en inglés. Busco convertirme en un administrador
-             de sistemas competente, capaz de afrontar los desafíos tecnológicos con soluciones innovadoras en el area de trabajo    
+             de sistemas competente, capaz de afrontar los desafíos tecnológicos con soluciones innovadoras   
             </p>
             <ul className='flex justify-start items-center flex-row gap-5  '>
                 {LinksPersonalWeb.map(({href},index) => (
